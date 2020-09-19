@@ -1,2 +1,1 @@
-# -
-大学的资料归档
+My code, PPT, books and information in HNU.
